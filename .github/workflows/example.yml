@@ -1,1 +1,5 @@
 name: Example
+
+on:
+  push:
+      branches: [testing]
